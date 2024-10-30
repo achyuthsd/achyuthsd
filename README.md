@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud
 - 🌱 I’m currently learning webdev
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me email
+- 📫 you can reach me via email
 
 
 <!---
